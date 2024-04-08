@@ -1,2 +1,2 @@
 # LmPrsA2
-Scripts
+Scripts for R-software TMT/MS analysis
